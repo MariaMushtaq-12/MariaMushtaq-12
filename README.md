@@ -12,7 +12,7 @@
 
 
 
-I'm a geospatial engineer with a thing for making spatial data **actually useful** — interactive, intelligent, and accessible. I build Web GIS applications, Earth Observation pipelines, and ML-driven tools that help people understand the planet better.
+I'm a geoinformatics engineer with a thing for making spatial data **actually useful** — interactive, intelligent, and accessible. I build Web GIS applications, Earth Observation pipelines, and ML-driven tools that help people understand the planet better.
 
 My background spans GIS, remote sensing, hydrology, and full-stack development. I won a **Second Industrial Award** for a Landslide Susceptibility Early Warning System using machine learning and GIS. I'm currently pursuing an **Erasmus Mundus master's in Digital Earth** — one of the most competitive scholarships in geospatial science — across  Paris Lodron University of Salzburg and Palacký University Olomouc, Czech Republic.
 
@@ -24,7 +24,7 @@ Most of my work sits at the intersection of space technology, environmental moni
 
 | Project | What it does | Stack |
 |---|---|---|
-| 🏔️ **Landslide Early Warning System** | ML-based susceptibility mapping and early warning. Won Second Industrial Award. | Python · scikit-learn · GIS |
+| 🏔️ **Landslide Early Warning System** | ML-based susceptibility mapping and early warning system. Won Second Industrial Award. | Python · scikit-learn · GIS · Web application |
 | 🛰️ **3D Military Visualization Tool** | Line of sight, viewshed, elevation via WMS. Built for real operational use during internship. | CesiumJS · OpenLayers · PostgreSQL |
 | 🗺️ **OOSC Web GIS App** | Interactive choropleth mapping of out-of-school children at tehsil level. | Leaflet · JavaScript · GeoJSON |
 | 🌱 **Soil Analysis Web App** | Geotechnical reports from GPS coordinates using SoilGrids, NASA/SRTM & OpenLandMap. | Python · REST APIs · GeoAI |
