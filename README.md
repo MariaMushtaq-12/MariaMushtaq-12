@@ -7,10 +7,10 @@
 ![GeoAI](https://img.shields.io/badge/GeoAI%20Researcher-3C3489?style=flat&labelColor=EEEDFE)
 
 ---
-## 💫 About Me:
+## About Me:
 <!-- <br>Erasmus Mundus Copernicus Masters in Digital Earth Scholar | Geoinformatics Engineer | GeoAI & Digital Earth Researcher | Full Stack Web GIS Developer<br><br>I work at the intersection of geospatial technologies, artificial intelligence, remote sensing, and web development to build intelligent spatial solutions for real-world environmental and societal challenges.<br><br>My experience spans Web GIS development, Earth Observation analytics, geospatial data engineering, and interactive spatial visualization using modern geospatial technologies and cloud-based workflows. I am particularly interested in GeoAI, Digital Earth ecosystems, geospatial knowledge systems, spatial data infrastructures, and AI-driven decision support systems.<br><br>Over the years, I have worked on projects involving:<br>- Interactive Web GIS applications<br>- GeoServer and PostgreSQL/PostGIS integration<br>- OpenLayers, CesiumJS, and modern mapping frameworks<br>- Earth Observation and satellite data analysis<br>- EO Data Cubes and scalable geospatial workflows<br>- Machine Learning for environmental monitoring<br>- Hydrology, drought analysis, and precision agriculture<br>- 3D geospatial visualization and terrain analysis<br>- Geospatial APIs and spatial backend systems<br><br>I enjoy transforming complex geospatial data into meaningful, interactive, and impactful applications that support research, planning, sustainability, and informed decision-making.<br><br>Currently, I am exploring:<br>- GeoAI-driven spatial intelligence systems<br>- Digital Earth frameworks and EO data infrastructures (EO Data Cubes)<br>- Spatial semantics and geospatial knowledge graphs<br>- Scalable cloud-native geospatial architectures<br>- Human-centered geospatial application design<br><br>I believe the future of geospatial technology lies in the integration of AI, Earth Observation, cloud computing, and interactive spatial systems — creating smarter and more accessible tools for understanding our planet. -->
 
----
+
 
 I'm a geospatial engineer with a thing for making spatial data **actually useful** — interactive, intelligent, and accessible. I build Web GIS applications, Earth Observation pipelines, and ML-driven tools that help people understand the planet better.
 
@@ -49,7 +49,7 @@ Most of my work sits at the intersection of space technology, environmental moni
 - 📡 Open to internships and research roles with space agencies, EO companies, and spatial intelligence teams
 
 ---
-## 🌐 Socials:
+### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/maria-mushtaq-a0244b226) 
 
 ### 💻 Tech Stack:
