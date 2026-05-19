@@ -2,7 +2,7 @@
 
 **Erasmus Mundus Scholar · Geoinformatics Engineer · Web GIS & Earth Observation**
 
-![Digital Earth](https://img.shields.io/badge/Erasmus%20Mundus-Digital%20Earth-085041?style=flat&labelColor=E1F5EE)
+![Copernicus Masters in Digital Earth](https://img.shields.io/badge/Erasmus%20Mundus-Digital%20Earth-085041?style=flat&labelColor=E1F5EE)
 ![Web GIS](https://img.shields.io/badge/Web%20GIS%20Developer-0C447C?style=flat&labelColor=E6F1FB)
 ![GeoAI](https://img.shields.io/badge/GeoAI%20Researcher-3C3489?style=flat&labelColor=EEEDFE)
 
