@@ -64,7 +64,7 @@ Most of my work sits at the intersection of space technology, environmental moni
 ![](https://github-profile-trophy.vercel.app/?username=MariaMushtaq-12&theme=radical&no-frame=false&no-bg=false&margin-w=3)
 
 ### ✍️Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MariaMushtaq-12&limit=5&theme=dark&combine_all_yearly_contributions=true)
